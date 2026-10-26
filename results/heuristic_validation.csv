@@ -1,0 +1,4 @@
+﻿map,reachable_states,edges,goal_states,solvable_states,unsolvable_states,initial_h,initial_optimal_cost,admissibility_violations,consistency_violations,goal_violations,passed
+map_01_tiny.txt,3,3,2,3,0,1,1,0,0,0,True
+map_02_small.txt,29636,98190,38,10298,19338,4,13,0,0,0,True
+map_03_blocked.txt,9,22,0,0,9,4,inf,0,0,0,True
