@@ -1,7 +1,7 @@
 ﻿map,algorithm,solved,cost,nodes_expanded,nodes_generated,max_frontier,repeats,time_ms_median,peak_python_kib
-map_01_tiny.txt,UCS,True,1,1,2,1,5,0.103,2.242
-map_01_tiny.txt,A*,True,1,1,2,1,5,0.09,6.094
-map_02_small.txt,UCS,True,13,1965,6743,828,5,24.163,1050.914
-map_02_small.txt,A*,True,13,404,1374,183,5,6.146,240.926
-map_03_blocked.txt,UCS,False,,9,23,3,5,0.101,4.398
-map_03_blocked.txt,A*,False,,9,23,3,5,0.221,7.336
+map_01_tiny.txt,UCS,True,1,1,2,1,5,0.052,2.242
+map_01_tiny.txt,A*,True,1,1,2,1,5,0.067,6.094
+map_02_small.txt,UCS,True,13,1965,6743,828,5,24.223,1050.914
+map_02_small.txt,A*,True,13,404,1374,183,5,6.342,240.926
+map_03_blocked.txt,UCS,False,,9,23,3,5,0.106,4.398
+map_03_blocked.txt,A*,False,,9,23,3,5,0.199,7.336
